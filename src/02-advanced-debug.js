@@ -1,3 +1,4 @@
+
 console.log('Advanced debugging example running.')
 debugger
 
@@ -25,4 +26,4 @@ function goodPractices() {
 }
 
 // then, call the function so it runs!
-goodPractices()
+//goodPractices()
